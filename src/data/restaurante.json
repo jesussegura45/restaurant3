@@ -1,0 +1,37 @@
+[
+  {
+    "id": "efe1a0cd-8353-4ba0-d4v3-30434c933298",
+    "name": "Medellin Burger Company",
+    "profile": "Parrilla",
+    "address": "Circ 4 Nro 70-12 Boulevard 70 Laureles, Medellín",
+    "url": "https://www.medellinburgercompany.com/wp-content/uploads/2021/02/logo-removebg-preview-2.png"
+  },
+  {
+    "id": "9b9048ec-fff8-4bc5-m1k3-d0c65b83eb92",
+    "name": "Miceviche",
+    "profile": "Parrilla",
+    "address": "Calle 10a 41 72, Medellín",
+    "url":"https://menuparatunegocio.com/wp-content/uploads/2020/12/LOGO-9.jpg"
+  },
+  {
+    "id": "9b9048ec-fff8-4bc5-m1k3-d0c65b83eb85",
+    "name": "Mezcla",
+    "profile": "FrancesaSaludableComedores",
+    "address": "Calle 11a#43d60, Medellín 050021 Colombia",
+    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/7d/a3/d4/retaurante-mezcla.jpg"
+  },
+  {
+    "id": "9b9048ec-fff8-4bc5-m1k3-d0c65b83eb78",
+    "name": "La Pampa Parrilla Argentina",
+    "profile": "Churrasquería,Latina, Parrillada",
+    "address": "Carrera 30 10c 228 InterPlaza Mall, Medellín 050001 Colombia",
+    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/f5/a9/d7/lo-mejor-de-venir-a-la.jpg"
+  },
+  {
+    "id": "9b9048ec-fff8-4bc5-m1k3-d0c65b83eb74",
+    "name": "Tandoori Halal",
+    "profile": "De la India",
+    "address": "Calle 10b 36- 6, Medellín 050021 Colombia",
+    "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/68/92/98/tandoori-halal.jpg"
+  }
+]
